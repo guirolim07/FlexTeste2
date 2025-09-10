@@ -65,3 +65,25 @@ ul, ol, li{
 
 }
 
+.circulos3 {
+    width: 100vw;
+    height: 200px;
+    background-color: rgb(236, 200, 207);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+
+}
+
+.circulos3 div{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(158, 85, 81);
+    border-radius: 50%;
+    
+    
+    
+
+}
+
