@@ -43,3 +43,25 @@ ul, ol, li{
 
 }
 
+.circulos2 {
+    width: 100vw;
+    height: 200px;
+    background-color: rgb(173, 232, 181);
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    gap: 10px;
+
+}
+
+.circulos2 div{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(49, 151, 75);
+    border-radius: 50%;
+    
+    
+    
+
+}
+
