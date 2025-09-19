@@ -87,3 +87,24 @@ ul, ol, li{
 
 }
 
+.circulos4{
+    width: 100vw;
+    height: 200px;
+    background-color: rgb(245, 245, 156);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 270px;
+
+
+
+}
+
+.circulos4 div{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(193, 198, 52);
+    border-radius: 50%;
+
+
+}
